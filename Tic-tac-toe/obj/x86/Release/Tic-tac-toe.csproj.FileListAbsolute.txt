@@ -1,0 +1,9 @@
+C:\Users\R\Desktop\Tic-tac-toe\Tic-tac-toe\bin\Release\Tic-tac-toe.exe
+C:\Users\R\Desktop\Tic-tac-toe\Tic-tac-toe\bin\Release\Tic-tac-toe.pdb
+C:\Users\R\Desktop\Tic-tac-toe\Tic-tac-toe\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\R\Desktop\Tic-tac-toe\Tic-tac-toe\obj\x86\Release\Tic_tac_toe.Form1.resources
+C:\Users\R\Desktop\Tic-tac-toe\Tic-tac-toe\obj\x86\Release\Tic_tac_toe.Properties.Resources.resources
+C:\Users\R\Desktop\Tic-tac-toe\Tic-tac-toe\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\R\Desktop\Tic-tac-toe\Tic-tac-toe\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\R\Desktop\Tic-tac-toe\Tic-tac-toe\obj\x86\Release\Tic-tac-toe.exe
+C:\Users\R\Desktop\Tic-tac-toe\Tic-tac-toe\obj\x86\Release\Tic-tac-toe.pdb
